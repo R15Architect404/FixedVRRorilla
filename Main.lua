@@ -30,7 +30,7 @@
 ▒▒▒▒▒▒▒▒▒▒                          ▒▒▒▒▒▒▒▒
 ▒▒▒▒▒▒▒▒                            ▒▒▒▒▒▒▒▒
 ]]--
-wait(10)
+wait(1)
 options.Hands = false          -- If you want hands in R6 (You need hats)
 options.RightHand = "Racing Helmet Flames"
 options.LeftHand = "Racing Helmet USA"
