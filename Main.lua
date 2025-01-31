@@ -120,7 +120,7 @@ end)
 --=========[Functions]==========--
 function getModule(module)
     assert(type(module) == "string", "string only")
-    local path = "https://raw.githubusercontent.com/saucekid/sauceVR/main/modules/"
+    local path = "https://raw.githubusercontent.com/saucekid/sauceVR/refs/tags/v1.0/modules/"
     local module = loadstring(game:HttpGetAsync(path.. module.. ".lua"))()
     return module
 end
