@@ -35,5 +35,5 @@ end
 
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YooksBoi/FixedVRRorilla/main/Main.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/R15Architect404/FixedVRRorilla/refs/heads/main/Main.lua"))();
 ```
